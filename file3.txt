@@ -1,1 +1,2 @@
 using Atom directly
+I love Git

@@ -1,5 +1,6 @@
 Wonderful day
 more stuff added
 remote to local
-created  a file 
+created  a file
 making some changes
+Git will help me
